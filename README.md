@@ -1,0 +1,2 @@
+# djangir
+my django sandbox
